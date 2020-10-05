@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CowsAndBulls.Constants\CowsAndBulls.Constants.csproj" />
+    <ProjectReference Include="..\CowsAndBulls.GameOptionFactory\CowsAndBulls.GameOptionFactory.csproj" />
+    <ProjectReference Include="..\CowsAndBulls.IO.Service\CowsAndBulls.IO.Service.csproj" />
+    <ProjectReference Include="..\CowsAndBulls.Models\CowsAndBulls.Models.csproj" />
+  </ItemGroup>
+
+</Project>

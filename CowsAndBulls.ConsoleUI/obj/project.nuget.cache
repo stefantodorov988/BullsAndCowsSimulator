@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZWEi6kD2TEF1iTWBhYXB7teKUnXx631eLt3TKNikrV+e1IGDOQLt+xFBvhU2jm0VX7o3nfiGAHo3rjTwGBychA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stefan\\source\\repos\\BullsAndCowsSimulator\\CowsAndBulls.ConsoleUI\\CowsAndBulls.ConsoleUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stefan\\.nuget\\packages\\htmlagilitypack\\1.11.24\\htmlagilitypack.1.11.24.nupkg.sha512",
+    "C:\\Users\\Stefan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Stefan\\.nuget\\packages\\unity\\5.11.7\\unity.5.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}

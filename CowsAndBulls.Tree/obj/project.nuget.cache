@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CQdTIjKSNCOGlnPXv1tWHPqag8jtEpu2EtiZIySaFsLuzoVyH7MWdGjIBCPwFr7uAt5bB+sYe9xsmjAL6YImhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stefan\\source\\repos\\BullsAndCowsSimulator\\CowsAndBulls.Tree\\CowsAndBulls.Tree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stefan\\.nuget\\packages\\htmlagilitypack\\1.11.24\\htmlagilitypack.1.11.24.nupkg.sha512"
+  ],
+  "logs": []
+}

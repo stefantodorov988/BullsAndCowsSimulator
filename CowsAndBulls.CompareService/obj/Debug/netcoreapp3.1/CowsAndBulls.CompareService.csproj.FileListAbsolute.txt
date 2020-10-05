@@ -1,0 +1,9 @@
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.CompareService\bin\Debug\netcoreapp3.1\CowsAndBulls.CompareService.deps.json
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.CompareService\bin\Debug\netcoreapp3.1\CowsAndBulls.CompareService.dll
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.CompareService\bin\Debug\netcoreapp3.1\CowsAndBulls.CompareService.pdb
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.CompareService\obj\Debug\netcoreapp3.1\CowsAndBulls.CompareService.AssemblyInfoInputs.cache
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.CompareService\obj\Debug\netcoreapp3.1\CowsAndBulls.CompareService.AssemblyInfo.cs
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.CompareService\obj\Debug\netcoreapp3.1\CowsAndBulls.CompareService.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.CompareService\obj\Debug\netcoreapp3.1\CowsAndBulls.CompareService.dll
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.CompareService\obj\Debug\netcoreapp3.1\CowsAndBulls.CompareService.pdb
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.CompareService\obj\Debug\netcoreapp3.1\CowsAndBulls.CompareService.csprojAssemblyReference.cache

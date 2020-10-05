@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CowsAndBulls.IO.Service/1.0.0": {
+        "dependencies": {
+          "CowsAndBulls.Constants": "1.0.0"
+        },
+        "runtime": {
+          "CowsAndBulls.IO.Service.dll": {}
+        }
+      },
+      "CowsAndBulls.Constants/1.0.0": {
+        "runtime": {
+          "CowsAndBulls.Constants.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CowsAndBulls.IO.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CowsAndBulls.Constants/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

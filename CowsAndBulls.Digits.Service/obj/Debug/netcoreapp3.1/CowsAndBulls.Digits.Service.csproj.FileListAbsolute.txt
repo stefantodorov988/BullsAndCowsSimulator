@@ -1,0 +1,9 @@
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.Digits.Service\bin\Debug\netcoreapp3.1\CowsAndBulls.Digits.Service.deps.json
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.Digits.Service\bin\Debug\netcoreapp3.1\CowsAndBulls.Digits.Service.dll
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.Digits.Service\bin\Debug\netcoreapp3.1\CowsAndBulls.Digits.Service.pdb
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.Digits.Service\obj\Debug\netcoreapp3.1\CowsAndBulls.Digits.Service.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.Digits.Service\obj\Debug\netcoreapp3.1\CowsAndBulls.Digits.Service.AssemblyInfoInputs.cache
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.Digits.Service\obj\Debug\netcoreapp3.1\CowsAndBulls.Digits.Service.AssemblyInfo.cs
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.Digits.Service\obj\Debug\netcoreapp3.1\CowsAndBulls.Digits.Service.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.Digits.Service\obj\Debug\netcoreapp3.1\CowsAndBulls.Digits.Service.dll
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.Digits.Service\obj\Debug\netcoreapp3.1\CowsAndBulls.Digits.Service.pdb

@@ -1,0 +1,400 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HtmlAgilityPack/1.11.24": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {}
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.5.2": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+        }
+      },
+      "Unity/5.11.7": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.5.2"
+        },
+        "compile": {
+          "lib/netcoreapp3.0/Unity.Abstractions.dll": {},
+          "lib/netcoreapp3.0/Unity.Container.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/Unity.Abstractions.dll": {},
+          "lib/netcoreapp3.0/Unity.Container.dll": {}
+        }
+      },
+      "CowsAndBulls.BCTreeFactory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "CowsAndBulls.Tree": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CowsAndBulls.BCTreeFactory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CowsAndBulls.BCTreeFactory.dll": {}
+        }
+      },
+      "CowsAndBulls.CompareService/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/CowsAndBulls.CompareService.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CowsAndBulls.CompareService.dll": {}
+        }
+      },
+      "CowsAndBulls.Constants/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/CowsAndBulls.Constants.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CowsAndBulls.Constants.dll": {}
+        }
+      },
+      "CowsAndBulls.Digits.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/CowsAndBulls.Digits.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CowsAndBulls.Digits.Service.dll": {}
+        }
+      },
+      "CowsAndBulls.GameOptionFactory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "CowsAndBulls.Models": "1.0.0",
+          "Unity": "5.11.7"
+        },
+        "compile": {
+          "bin/placeholder/CowsAndBulls.GameOptionFactory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CowsAndBulls.GameOptionFactory.dll": {}
+        }
+      },
+      "CowsAndBulls.IO.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "CowsAndBulls.Constants": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CowsAndBulls.IO.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CowsAndBulls.IO.Service.dll": {}
+        }
+      },
+      "CowsAndBulls.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "CowsAndBulls.BCTreeFactory": "1.0.0",
+          "CowsAndBulls.CompareService": "1.0.0",
+          "CowsAndBulls.Constants": "1.0.0",
+          "CowsAndBulls.Digits.Service": "1.0.0",
+          "CowsAndBulls.IO.Service": "1.0.0",
+          "CowsAndBulls.Tree": "1.0.0",
+          "HtmlAgilityPack": "1.11.24"
+        },
+        "compile": {
+          "bin/placeholder/CowsAndBulls.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CowsAndBulls.Models.dll": {}
+        }
+      },
+      "CowsAndBulls.Tree/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "CowsAndBulls.Constants": "1.0.0",
+          "HtmlAgilityPack": "1.11.24"
+        },
+        "compile": {
+          "bin/placeholder/CowsAndBulls.Tree.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CowsAndBulls.Tree.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HtmlAgilityPack/1.11.24": {
+      "sha512": "DLcytINO8EfCdBgMGsaz8Tvdgu2Aewoo2XX7WfZuRG9cBQRtbm8JZ4/sMRtFvzehjdIDqubdlQb8TqNfjRMEWg==",
+      "type": "package",
+      "path": "htmlagilitypack/1.11.24",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "htmlagilitypack.1.11.24.nupkg.sha512",
+        "htmlagilitypack.nuspec",
+        "lib/Net35/HtmlAgilityPack.dll",
+        "lib/Net35/HtmlAgilityPack.pdb",
+        "lib/Net35/HtmlAgilityPack.xml",
+        "lib/Net40-client/HtmlAgilityPack.dll",
+        "lib/Net40-client/HtmlAgilityPack.pdb",
+        "lib/Net40-client/HtmlAgilityPack.xml",
+        "lib/Net40/HtmlAgilityPack.XML",
+        "lib/Net40/HtmlAgilityPack.dll",
+        "lib/Net40/HtmlAgilityPack.pdb",
+        "lib/Net45/HtmlAgilityPack.XML",
+        "lib/Net45/HtmlAgilityPack.dll",
+        "lib/Net45/HtmlAgilityPack.pdb",
+        "lib/NetCore45/HtmlAgilityPack.XML",
+        "lib/NetCore45/HtmlAgilityPack.dll",
+        "lib/NetCore45/HtmlAgilityPack.pdb",
+        "lib/netstandard1.3/HtmlAgilityPack.deps.json",
+        "lib/netstandard1.3/HtmlAgilityPack.dll",
+        "lib/netstandard1.3/HtmlAgilityPack.pdb",
+        "lib/netstandard1.3/HtmlAgilityPack.xml",
+        "lib/netstandard1.6/HtmlAgilityPack.deps.json",
+        "lib/netstandard1.6/HtmlAgilityPack.dll",
+        "lib/netstandard1.6/HtmlAgilityPack.pdb",
+        "lib/netstandard1.6/HtmlAgilityPack.xml",
+        "lib/netstandard2.0/HtmlAgilityPack.deps.json",
+        "lib/netstandard2.0/HtmlAgilityPack.dll",
+        "lib/netstandard2.0/HtmlAgilityPack.pdb",
+        "lib/netstandard2.0/HtmlAgilityPack.xml",
+        "lib/portable-net45+netcore45+wp8+MonoAndroid+MonoTouch/HtmlAgilityPack.XML",
+        "lib/portable-net45+netcore45+wp8+MonoAndroid+MonoTouch/HtmlAgilityPack.dll",
+        "lib/portable-net45+netcore45+wp8+MonoAndroid+MonoTouch/HtmlAgilityPack.pdb",
+        "lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid+MonoTouch/HtmlAgilityPack.XML",
+        "lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid+MonoTouch/HtmlAgilityPack.dll",
+        "lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid+MonoTouch/HtmlAgilityPack.pdb",
+        "lib/uap10.0/HtmlAgilityPack.XML",
+        "lib/uap10.0/HtmlAgilityPack.dll",
+        "lib/uap10.0/HtmlAgilityPack.pdb",
+        "lib/uap10.0/HtmlAgilityPack.pri"
+      ]
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.5.2": {
+      "sha512": "wprSFgext8cwqymChhrBLu62LMg/1u92bU+VOwyfBimSPVFXtsNqEWC92Pf9ofzJFlk4IHmJA75EDJn1b2goAQ==",
+      "type": "package",
+      "path": "system.runtime.compilerservices.unsafe/4.5.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+        "system.runtime.compilerservices.unsafe.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "Unity/5.11.7": {
+      "sha512": "hlJ6/MuLnSb//f4wwMZyOYko6iiDt2WNNP1R8vqL0heruP/7qDhL0vCq+FRIMrtj1rUa9BaEdzR5weMbhi6gQA==",
+      "type": "package",
+      "path": "unity/5.11.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/Unity.Abstractions.dll",
+        "lib/net40/Unity.Abstractions.pdb",
+        "lib/net40/Unity.Container.dll",
+        "lib/net40/Unity.Container.pdb",
+        "lib/net45/Unity.Abstractions.dll",
+        "lib/net45/Unity.Abstractions.pdb",
+        "lib/net45/Unity.Container.dll",
+        "lib/net45/Unity.Container.pdb",
+        "lib/net46/Unity.Abstractions.dll",
+        "lib/net46/Unity.Abstractions.pdb",
+        "lib/net46/Unity.Container.dll",
+        "lib/net46/Unity.Container.pdb",
+        "lib/net47/Unity.Abstractions.dll",
+        "lib/net47/Unity.Abstractions.pdb",
+        "lib/net47/Unity.Container.dll",
+        "lib/net47/Unity.Container.pdb",
+        "lib/net48/Unity.Abstractions.dll",
+        "lib/net48/Unity.Abstractions.pdb",
+        "lib/net48/Unity.Container.dll",
+        "lib/net48/Unity.Container.pdb",
+        "lib/netcoreapp1.0/Unity.Abstractions.dll",
+        "lib/netcoreapp1.0/Unity.Abstractions.pdb",
+        "lib/netcoreapp1.0/Unity.Container.dll",
+        "lib/netcoreapp1.0/Unity.Container.pdb",
+        "lib/netcoreapp2.0/Unity.Abstractions.dll",
+        "lib/netcoreapp2.0/Unity.Abstractions.pdb",
+        "lib/netcoreapp2.0/Unity.Container.dll",
+        "lib/netcoreapp2.0/Unity.Container.pdb",
+        "lib/netcoreapp3.0/Unity.Abstractions.dll",
+        "lib/netcoreapp3.0/Unity.Abstractions.pdb",
+        "lib/netcoreapp3.0/Unity.Container.dll",
+        "lib/netcoreapp3.0/Unity.Container.pdb",
+        "lib/netstandard1.0/Unity.Abstractions.dll",
+        "lib/netstandard1.0/Unity.Abstractions.pdb",
+        "lib/netstandard1.0/Unity.Container.dll",
+        "lib/netstandard1.0/Unity.Container.pdb",
+        "lib/netstandard2.0/Unity.Abstractions.dll",
+        "lib/netstandard2.0/Unity.Abstractions.pdb",
+        "lib/netstandard2.0/Unity.Container.dll",
+        "lib/netstandard2.0/Unity.Container.pdb",
+        "unity.5.11.7.nupkg.sha512",
+        "unity.nuspec"
+      ]
+    },
+    "CowsAndBulls.BCTreeFactory/1.0.0": {
+      "type": "project",
+      "path": "../CowsAndBulls.BCTreeFactory/CowsAndBulls.BCTreeFactory.csproj",
+      "msbuildProject": "../CowsAndBulls.BCTreeFactory/CowsAndBulls.BCTreeFactory.csproj"
+    },
+    "CowsAndBulls.CompareService/1.0.0": {
+      "type": "project",
+      "path": "../CowsAndBulls.CompareService/CowsAndBulls.CompareService.csproj",
+      "msbuildProject": "../CowsAndBulls.CompareService/CowsAndBulls.CompareService.csproj"
+    },
+    "CowsAndBulls.Constants/1.0.0": {
+      "type": "project",
+      "path": "../CowsAndBulls.Constants/CowsAndBulls.Constants.csproj",
+      "msbuildProject": "../CowsAndBulls.Constants/CowsAndBulls.Constants.csproj"
+    },
+    "CowsAndBulls.Digits.Service/1.0.0": {
+      "type": "project",
+      "path": "../CowsAndBulls.Digits.Service/CowsAndBulls.Digits.Service.csproj",
+      "msbuildProject": "../CowsAndBulls.Digits.Service/CowsAndBulls.Digits.Service.csproj"
+    },
+    "CowsAndBulls.GameOptionFactory/1.0.0": {
+      "type": "project",
+      "path": "../CowsAndBulls.GameOptionFactory/CowsAndBulls.GameOptionFactory.csproj",
+      "msbuildProject": "../CowsAndBulls.GameOptionFactory/CowsAndBulls.GameOptionFactory.csproj"
+    },
+    "CowsAndBulls.IO.Service/1.0.0": {
+      "type": "project",
+      "path": "../CowsAndBulls.IO.Service/CowsAndBulls.IO.Service.csproj",
+      "msbuildProject": "../CowsAndBulls.IO.Service/CowsAndBulls.IO.Service.csproj"
+    },
+    "CowsAndBulls.Models/1.0.0": {
+      "type": "project",
+      "path": "../CowsAndBulls.Models/CowsAndBulls.Models.csproj",
+      "msbuildProject": "../CowsAndBulls.Models/CowsAndBulls.Models.csproj"
+    },
+    "CowsAndBulls.Tree/1.0.0": {
+      "type": "project",
+      "path": "../CowsAndBulls.Tree/CowsAndBulls.Tree.csproj",
+      "msbuildProject": "../CowsAndBulls.Tree/CowsAndBulls.Tree.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "CowsAndBulls.CompareService >= 1.0.0",
+      "CowsAndBulls.Digits.Service >= 1.0.0",
+      "CowsAndBulls.GameOptionFactory >= 1.0.0",
+      "CowsAndBulls.IO.Service >= 1.0.0",
+      "Unity >= 5.11.7"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Stefan\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Stefan\\source\\repos\\BullsAndCowsSimulator\\CowsAndBulls.CompositeRoot\\CowsAndBulls.CompositeRoot.csproj",
+      "projectName": "CowsAndBulls.CompositeRoot",
+      "projectPath": "C:\\Users\\Stefan\\source\\repos\\BullsAndCowsSimulator\\CowsAndBulls.CompositeRoot\\CowsAndBulls.CompositeRoot.csproj",
+      "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Stefan\\source\\repos\\BullsAndCowsSimulator\\CowsAndBulls.CompositeRoot\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://artifactory.sbtech.com/artifactory/api/nuget/SBTech": {},
+        "http://artifactory.sbtech.com/artifactory/api/nuget/SBTechFeature": {},
+        "http://artifactory.sbtech.com/artifactory/api/nuget/SBTechSymbols": {},
+        "http://artifactory.sbtech.com/artifactory/api/nuget/SBtech": {},
+        "http://artifactory.sbtech.com/artifactory/api/nuget/nuget.org": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Stefan\\source\\repos\\BullsAndCowsSimulator\\CowsAndBulls.CompareService\\CowsAndBulls.CompareService.csproj": {
+              "projectPath": "C:\\Users\\Stefan\\source\\repos\\BullsAndCowsSimulator\\CowsAndBulls.CompareService\\CowsAndBulls.CompareService.csproj"
+            },
+            "C:\\Users\\Stefan\\source\\repos\\BullsAndCowsSimulator\\CowsAndBulls.Digits.Service\\CowsAndBulls.Digits.Service.csproj": {
+              "projectPath": "C:\\Users\\Stefan\\source\\repos\\BullsAndCowsSimulator\\CowsAndBulls.Digits.Service\\CowsAndBulls.Digits.Service.csproj"
+            },
+            "C:\\Users\\Stefan\\source\\repos\\BullsAndCowsSimulator\\CowsAndBulls.GameOptionFactory\\CowsAndBulls.GameOptionFactory.csproj": {
+              "projectPath": "C:\\Users\\Stefan\\source\\repos\\BullsAndCowsSimulator\\CowsAndBulls.GameOptionFactory\\CowsAndBulls.GameOptionFactory.csproj"
+            },
+            "C:\\Users\\Stefan\\source\\repos\\BullsAndCowsSimulator\\CowsAndBulls.IO.Service\\CowsAndBulls.IO.Service.csproj": {
+              "projectPath": "C:\\Users\\Stefan\\source\\repos\\BullsAndCowsSimulator\\CowsAndBulls.IO.Service\\CowsAndBulls.IO.Service.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Unity": {
+            "target": "Package",
+            "version": "[5.11.7, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

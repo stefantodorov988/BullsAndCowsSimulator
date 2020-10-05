@@ -1,0 +1,117 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CowsAndBulls.Models/1.0.0": {
+        "dependencies": {
+          "CowsAndBulls.BCTreeFactory": "1.0.0",
+          "CowsAndBulls.CompareService": "1.0.0",
+          "CowsAndBulls.Constants": "1.0.0",
+          "CowsAndBulls.Digits.Service": "1.0.0",
+          "CowsAndBulls.IO.Service": "1.0.0",
+          "CowsAndBulls.Tree": "1.0.0",
+          "HtmlAgilityPack": "1.11.24"
+        },
+        "runtime": {
+          "CowsAndBulls.Models.dll": {}
+        }
+      },
+      "HtmlAgilityPack/1.11.24": {
+        "runtime": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.11.24.0",
+            "fileVersion": "1.11.24.0"
+          }
+        }
+      },
+      "CowsAndBulls.BCTreeFactory/1.0.0": {
+        "dependencies": {
+          "CowsAndBulls.Tree": "1.0.0"
+        },
+        "runtime": {
+          "CowsAndBulls.BCTreeFactory.dll": {}
+        }
+      },
+      "CowsAndBulls.CompareService/1.0.0": {
+        "runtime": {
+          "CowsAndBulls.CompareService.dll": {}
+        }
+      },
+      "CowsAndBulls.Constants/1.0.0": {
+        "runtime": {
+          "CowsAndBulls.Constants.dll": {}
+        }
+      },
+      "CowsAndBulls.Digits.Service/1.0.0": {
+        "runtime": {
+          "CowsAndBulls.Digits.Service.dll": {}
+        }
+      },
+      "CowsAndBulls.IO.Service/1.0.0": {
+        "dependencies": {
+          "CowsAndBulls.Constants": "1.0.0"
+        },
+        "runtime": {
+          "CowsAndBulls.IO.Service.dll": {}
+        }
+      },
+      "CowsAndBulls.Tree/1.0.0": {
+        "dependencies": {
+          "CowsAndBulls.Constants": "1.0.0",
+          "HtmlAgilityPack": "1.11.24"
+        },
+        "runtime": {
+          "CowsAndBulls.Tree.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CowsAndBulls.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HtmlAgilityPack/1.11.24": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DLcytINO8EfCdBgMGsaz8Tvdgu2Aewoo2XX7WfZuRG9cBQRtbm8JZ4/sMRtFvzehjdIDqubdlQb8TqNfjRMEWg==",
+      "path": "htmlagilitypack/1.11.24",
+      "hashPath": "htmlagilitypack.1.11.24.nupkg.sha512"
+    },
+    "CowsAndBulls.BCTreeFactory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CowsAndBulls.CompareService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CowsAndBulls.Constants/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CowsAndBulls.Digits.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CowsAndBulls.IO.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CowsAndBulls.Tree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

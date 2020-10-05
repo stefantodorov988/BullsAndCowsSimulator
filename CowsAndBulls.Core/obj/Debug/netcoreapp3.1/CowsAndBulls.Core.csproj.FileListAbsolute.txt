@@ -1,0 +1,12 @@
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.Core\bin\Debug\netcoreapp3.1\CowsAndBulls.Core.deps.json
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.Core\bin\Debug\netcoreapp3.1\CowsAndBulls.Core.dll
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.Core\bin\Debug\netcoreapp3.1\CowsAndBulls.Core.pdb
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.Core\bin\Debug\netcoreapp3.1\CowsAndBulls.IO.Service.dll
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.Core\bin\Debug\netcoreapp3.1\CowsAndBulls.IO.Service.pdb
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.Core\obj\Debug\netcoreapp3.1\CowsAndBulls.Core.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.Core\obj\Debug\netcoreapp3.1\CowsAndBulls.Core.AssemblyInfoInputs.cache
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.Core\obj\Debug\netcoreapp3.1\CowsAndBulls.Core.AssemblyInfo.cs
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.Core\obj\Debug\netcoreapp3.1\CowsAndBulls.Core.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.Core\obj\Debug\netcoreapp3.1\CowsAndBulls.Core.csproj.CopyComplete
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.Core\obj\Debug\netcoreapp3.1\CowsAndBulls.Core.dll
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.Core\obj\Debug\netcoreapp3.1\CowsAndBulls.Core.pdb

@@ -1,0 +1,208 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CowsAndBulls.ConsoleUI/1.0.0": {
+        "dependencies": {
+          "CowsAndBulls.CompositeRoot": "1.0.0",
+          "CowsAndBulls.Core": "1.0.0"
+        },
+        "runtime": {
+          "CowsAndBulls.ConsoleUI.dll": {}
+        }
+      },
+      "HtmlAgilityPack/1.11.24": {
+        "runtime": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.11.24.0",
+            "fileVersion": "1.11.24.0"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.5.2": {},
+      "Unity/5.11.7": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.5.2"
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/Unity.Abstractions.dll": {
+            "assemblyVersion": "5.11.6.0",
+            "fileVersion": "5.11.6.0"
+          },
+          "lib/netcoreapp3.0/Unity.Container.dll": {
+            "assemblyVersion": "5.11.8.0",
+            "fileVersion": "5.11.8.0"
+          }
+        }
+      },
+      "CowsAndBulls.BCTreeFactory/1.0.0": {
+        "dependencies": {
+          "CowsAndBulls.Tree": "1.0.0"
+        },
+        "runtime": {
+          "CowsAndBulls.BCTreeFactory.dll": {}
+        }
+      },
+      "CowsAndBulls.CompareService/1.0.0": {
+        "runtime": {
+          "CowsAndBulls.CompareService.dll": {}
+        }
+      },
+      "CowsAndBulls.CompositeRoot/1.0.0": {
+        "dependencies": {
+          "CowsAndBulls.CompareService": "1.0.0",
+          "CowsAndBulls.Digits.Service": "1.0.0",
+          "CowsAndBulls.GameOptionFactory": "1.0.0",
+          "CowsAndBulls.IO.Service": "1.0.0",
+          "Unity": "5.11.7"
+        },
+        "runtime": {
+          "CowsAndBulls.CompositeRoot.dll": {}
+        }
+      },
+      "CowsAndBulls.Constants/1.0.0": {
+        "runtime": {
+          "CowsAndBulls.Constants.dll": {}
+        }
+      },
+      "CowsAndBulls.Core/1.0.0": {
+        "dependencies": {
+          "CowsAndBulls.Constants": "1.0.0",
+          "CowsAndBulls.GameOptionFactory": "1.0.0",
+          "CowsAndBulls.IO.Service": "1.0.0",
+          "CowsAndBulls.Models": "1.0.0"
+        },
+        "runtime": {
+          "CowsAndBulls.Core.dll": {}
+        }
+      },
+      "CowsAndBulls.Digits.Service/1.0.0": {
+        "runtime": {
+          "CowsAndBulls.Digits.Service.dll": {}
+        }
+      },
+      "CowsAndBulls.GameOptionFactory/1.0.0": {
+        "dependencies": {
+          "CowsAndBulls.Models": "1.0.0",
+          "Unity": "5.11.7"
+        },
+        "runtime": {
+          "CowsAndBulls.GameOptionFactory.dll": {}
+        }
+      },
+      "CowsAndBulls.IO.Service/1.0.0": {
+        "dependencies": {
+          "CowsAndBulls.Constants": "1.0.0"
+        },
+        "runtime": {
+          "CowsAndBulls.IO.Service.dll": {}
+        }
+      },
+      "CowsAndBulls.Models/1.0.0": {
+        "dependencies": {
+          "CowsAndBulls.BCTreeFactory": "1.0.0",
+          "CowsAndBulls.CompareService": "1.0.0",
+          "CowsAndBulls.Constants": "1.0.0",
+          "CowsAndBulls.Digits.Service": "1.0.0",
+          "CowsAndBulls.IO.Service": "1.0.0",
+          "CowsAndBulls.Tree": "1.0.0",
+          "HtmlAgilityPack": "1.11.24"
+        },
+        "runtime": {
+          "CowsAndBulls.Models.dll": {}
+        }
+      },
+      "CowsAndBulls.Tree/1.0.0": {
+        "dependencies": {
+          "CowsAndBulls.Constants": "1.0.0",
+          "HtmlAgilityPack": "1.11.24"
+        },
+        "runtime": {
+          "CowsAndBulls.Tree.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CowsAndBulls.ConsoleUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HtmlAgilityPack/1.11.24": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DLcytINO8EfCdBgMGsaz8Tvdgu2Aewoo2XX7WfZuRG9cBQRtbm8JZ4/sMRtFvzehjdIDqubdlQb8TqNfjRMEWg==",
+      "path": "htmlagilitypack/1.11.24",
+      "hashPath": "htmlagilitypack.1.11.24.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wprSFgext8cwqymChhrBLu62LMg/1u92bU+VOwyfBimSPVFXtsNqEWC92Pf9ofzJFlk4IHmJA75EDJn1b2goAQ==",
+      "path": "system.runtime.compilerservices.unsafe/4.5.2",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+    },
+    "Unity/5.11.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hlJ6/MuLnSb//f4wwMZyOYko6iiDt2WNNP1R8vqL0heruP/7qDhL0vCq+FRIMrtj1rUa9BaEdzR5weMbhi6gQA==",
+      "path": "unity/5.11.7",
+      "hashPath": "unity.5.11.7.nupkg.sha512"
+    },
+    "CowsAndBulls.BCTreeFactory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CowsAndBulls.CompareService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CowsAndBulls.CompositeRoot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CowsAndBulls.Constants/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CowsAndBulls.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CowsAndBulls.Digits.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CowsAndBulls.GameOptionFactory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CowsAndBulls.IO.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CowsAndBulls.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CowsAndBulls.Tree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

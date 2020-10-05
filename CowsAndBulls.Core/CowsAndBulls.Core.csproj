@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CowsAndBulls.IO.Service\CowsAndBulls.IO.Service.csproj" />
+  </ItemGroup>
+
+</Project>

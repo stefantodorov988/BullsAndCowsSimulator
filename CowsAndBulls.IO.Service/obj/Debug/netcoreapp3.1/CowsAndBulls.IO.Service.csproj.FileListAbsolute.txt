@@ -1,0 +1,12 @@
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.IO.Service\bin\Debug\netcoreapp3.1\CowsAndBulls.IO.Service.deps.json
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.IO.Service\bin\Debug\netcoreapp3.1\CowsAndBulls.IO.Service.dll
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.IO.Service\bin\Debug\netcoreapp3.1\CowsAndBulls.IO.Service.pdb
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.IO.Service\bin\Debug\netcoreapp3.1\CowsAndBulls.Constants.dll
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.IO.Service\bin\Debug\netcoreapp3.1\CowsAndBulls.Constants.pdb
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.IO.Service\obj\Debug\netcoreapp3.1\CowsAndBulls.IO.Service.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.IO.Service\obj\Debug\netcoreapp3.1\CowsAndBulls.IO.Service.AssemblyInfoInputs.cache
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.IO.Service\obj\Debug\netcoreapp3.1\CowsAndBulls.IO.Service.AssemblyInfo.cs
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.IO.Service\obj\Debug\netcoreapp3.1\CowsAndBulls.IO.Service.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.IO.Service\obj\Debug\netcoreapp3.1\CowsAndBulls.IO.Service.csproj.CopyComplete
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.IO.Service\obj\Debug\netcoreapp3.1\CowsAndBulls.IO.Service.dll
+C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.IO.Service\obj\Debug\netcoreapp3.1\CowsAndBulls.IO.Service.pdb
