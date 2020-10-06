@@ -18,7 +18,7 @@
         }
         public IGameOption CreateGamePoint(string input)
         {
-            return strategies.FirstOrDefault(strategy => strategy.IsApplicable(input)) ?? unityContainer.Resolve<ExitGameOption>();
+            return strategies.FirstOrDefault(strategy => strategy.IsApplicable(input));
         }
     }
 }

@@ -10,3 +10,15 @@ C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.Tree\obj\Debug\netcoreapp
 C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.Tree\obj\Debug\netcoreapp3.1\CowsAndBulls.Tree.csproj.CopyComplete
 C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.Tree\obj\Debug\netcoreapp3.1\CowsAndBulls.Tree.dll
 C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.Tree\obj\Debug\netcoreapp3.1\CowsAndBulls.Tree.pdb
+C:\Users\Stefan\source\repos\BullsAndCowsSimulator\CowsAndBulls.Tree\bin\Debug\netcoreapp3.1\CowsAndBulls.Tree.deps.json
+C:\Users\Stefan\source\repos\BullsAndCowsSimulator\CowsAndBulls.Tree\bin\Debug\netcoreapp3.1\CowsAndBulls.Tree.dll
+C:\Users\Stefan\source\repos\BullsAndCowsSimulator\CowsAndBulls.Tree\bin\Debug\netcoreapp3.1\CowsAndBulls.Tree.pdb
+C:\Users\Stefan\source\repos\BullsAndCowsSimulator\CowsAndBulls.Tree\bin\Debug\netcoreapp3.1\CowsAndBulls.Constants.dll
+C:\Users\Stefan\source\repos\BullsAndCowsSimulator\CowsAndBulls.Tree\bin\Debug\netcoreapp3.1\CowsAndBulls.Constants.pdb
+C:\Users\Stefan\source\repos\BullsAndCowsSimulator\CowsAndBulls.Tree\obj\Debug\netcoreapp3.1\CowsAndBulls.Tree.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\BullsAndCowsSimulator\CowsAndBulls.Tree\obj\Debug\netcoreapp3.1\CowsAndBulls.Tree.AssemblyInfoInputs.cache
+C:\Users\Stefan\source\repos\BullsAndCowsSimulator\CowsAndBulls.Tree\obj\Debug\netcoreapp3.1\CowsAndBulls.Tree.AssemblyInfo.cs
+C:\Users\Stefan\source\repos\BullsAndCowsSimulator\CowsAndBulls.Tree\obj\Debug\netcoreapp3.1\CowsAndBulls.Tree.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\BullsAndCowsSimulator\CowsAndBulls.Tree\obj\Debug\netcoreapp3.1\CowsAndBulls.Tree.csproj.CopyComplete
+C:\Users\Stefan\source\repos\BullsAndCowsSimulator\CowsAndBulls.Tree\obj\Debug\netcoreapp3.1\CowsAndBulls.Tree.dll
+C:\Users\Stefan\source\repos\BullsAndCowsSimulator\CowsAndBulls.Tree\obj\Debug\netcoreapp3.1\CowsAndBulls.Tree.pdb

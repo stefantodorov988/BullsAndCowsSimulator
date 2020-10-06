@@ -6,3 +6,11 @@ C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.Constants\obj\Debug\netco
 C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.Constants\obj\Debug\netcoreapp3.1\CowsAndBulls.Constants.csproj.CoreCompileInputs.cache
 C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.Constants\obj\Debug\netcoreapp3.1\CowsAndBulls.Constants.dll
 C:\Users\Stefan\source\repos\BullsAndCows\CowsAndBulls.Constants\obj\Debug\netcoreapp3.1\CowsAndBulls.Constants.pdb
+C:\Users\Stefan\source\repos\BullsAndCowsSimulator\CowsAndBulls.Constants\bin\Debug\netcoreapp3.1\CowsAndBulls.Constants.deps.json
+C:\Users\Stefan\source\repos\BullsAndCowsSimulator\CowsAndBulls.Constants\bin\Debug\netcoreapp3.1\CowsAndBulls.Constants.dll
+C:\Users\Stefan\source\repos\BullsAndCowsSimulator\CowsAndBulls.Constants\bin\Debug\netcoreapp3.1\CowsAndBulls.Constants.pdb
+C:\Users\Stefan\source\repos\BullsAndCowsSimulator\CowsAndBulls.Constants\obj\Debug\netcoreapp3.1\CowsAndBulls.Constants.AssemblyInfoInputs.cache
+C:\Users\Stefan\source\repos\BullsAndCowsSimulator\CowsAndBulls.Constants\obj\Debug\netcoreapp3.1\CowsAndBulls.Constants.AssemblyInfo.cs
+C:\Users\Stefan\source\repos\BullsAndCowsSimulator\CowsAndBulls.Constants\obj\Debug\netcoreapp3.1\CowsAndBulls.Constants.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\BullsAndCowsSimulator\CowsAndBulls.Constants\obj\Debug\netcoreapp3.1\CowsAndBulls.Constants.dll
+C:\Users\Stefan\source\repos\BullsAndCowsSimulator\CowsAndBulls.Constants\obj\Debug\netcoreapp3.1\CowsAndBulls.Constants.pdb
